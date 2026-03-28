@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on Java Programming
+- 🔭 I’m currently working on Java Backend
 - 🌱 I’m currently learning DSA
 - 👯 I’m looking to collaborate on open source
 - 🤔 I’m looking for help with DSA
