@@ -42,7 +42,7 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=CodeWithTanmay635&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=CodeWithTanmay635&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&cache_seconds=1800" alt="GitHub Stats" />
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=CodeWithTanmay635&theme=tokyonight&hide_border=true&background=0d1117" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=CodeWithTanmay635&theme=tokyonight&hide_border=true&background=0d1117&cache_seconds=1800" alt="GitHub Streak" />
 </div>
