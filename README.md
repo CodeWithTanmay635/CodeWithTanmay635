@@ -1,4 +1,7 @@
-<h1 align="center">Hi there, I'm Tanmay 👋</h1>
+<h1 align="center">Hi there, I'm👋</h1>
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=45&pause=2000&color=2ECA53&background=0D1117&center=true&vCenter=true&width=600&height=120&lines=>+Tanmay+Pansare_;" alt="Terminal Name Animation" />
+</div>
 <h3 align="center">Backend Developer | MCA Aspirant | Tech Educator</h3>
 
 <div align="center">
